@@ -1,0 +1,116 @@
+{
+  "saveName": "qwe",
+  "saveDate": "2025-03-20T05:16:52.7177595Z",
+  "gameModel": {
+    "GameSpeed": 1.0,
+    "Money": 0,
+    "Animals": [
+      {
+        "$type": "Lion, Assembly-CSharp",
+        "ID": 1,
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "Price": 0,
+        "Type": 0,
+        "Group": {
+          "Animals": [],
+          "Type": 0,
+          "IsAbleToReproduce": false
+        },
+        "Hunger": 0,
+        "Thirst": 0,
+        "Age": 5.2,
+        "discoveredLakes": null,
+        "discoveredFoodSources": null,
+        "IsAlive": true
+      },
+      {
+        "$type": "Lion, Assembly-CSharp",
+        "ID": 2,
+        "Position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "Price": 0,
+        "Type": 0,
+        "Group": {
+          "Animals": [],
+          "Type": 0,
+          "IsAbleToReproduce": false
+        },
+        "Hunger": 0,
+        "Thirst": 0,
+        "Age": 5.2,
+        "discoveredLakes": null,
+        "discoveredFoodSources": null,
+        "IsAlive": true
+      }
+    ],
+    "Groups": [
+      {
+        "Animals": null,
+        "Type": 0,
+        "IsAbleToReproduce": false
+      },
+      {
+        "Animals": null,
+        "Type": 0,
+        "IsAbleToReproduce": false
+      }
+    ],
+    "Persons": [],
+    "Jeeps": [
+      {
+        "passengers": [],
+        "ID": 0,
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        },
+        "IsMoving": false
+      }
+    ],
+    "TerrainObjects": [
+      {
+        "ID": 1,
+        "type": 3,
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "magnitude": 0.0,
+          "sqrMagnitude": 0.0
+        }
+      },
+      {
+        "ID": 2,
+        "type": 3,
+        "position": {
+          "x": 5.0,
+          "y": 5.0,
+          "z": 0.0,
+          "normalized": {
+            "x": 0.707106769,
+            "y": 0.707106769,
+            "z": 0.0,
+            "magnitude": 1.0,
+            "sqrMagnitude": 0.99999994
+          },
+          "magnitude": 7.071068,
+          "sqrMagnitude": 50.0
+        }
+      }
+    ]
+  }
+}
